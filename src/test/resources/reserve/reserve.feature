@@ -1,4 +1,4 @@
-Feature: Make a call to reservation endpoints
+Feature: Make a call to reserve endpoints
 
     Scenario: Get all reservations gives 200 response code
         * url apiBaseUrl

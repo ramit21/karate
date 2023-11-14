@@ -1,4 +1,4 @@
-package reservation;
+package reserve;
 
 import com.intuit.karate.junit5.Karate;
 
