@@ -1,4 +1,4 @@
-package reserve;
+package examples.reserve;
 
 import com.intuit.karate.junit5.Karate;
 
