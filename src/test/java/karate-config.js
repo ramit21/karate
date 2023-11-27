@@ -5,6 +5,6 @@ function fn(){
     }
     karate.configure('connectTimeout', 7000);
     karate.configure('readTimeout', 7000);
-    karate.configure('proxy', localproxy);
+    //karate.configure('proxy', localproxy);
     return config;
 }
